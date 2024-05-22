@@ -52,11 +52,4 @@ A web-based application designed to streamline and automate the management of em
 - Node.js and npm
 - Java Development Kit (JDK)
 - MySQL Server
-- Docker (optional, for containerization)
-
-### Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/ems-project.git
-   cd ems-project
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
